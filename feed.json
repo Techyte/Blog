@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://techyte.micro.blog/2024/01/24/oversimplified-uploaded-lets.html",
+				
+				"content_html": "<p>oversimplified uploaded lets goooo</p>\n",
+				"content_text": "oversimplified uploaded lets goooo\n",
+				"date_published": "2024-01-24T19:47:34+11:00",
+				"url": "https://blog.techyte.net/2024/01/24/oversimplified-uploaded-lets.html"
+			},
+			{
+				"id": "http://techyte.micro.blog/2023/12/05/i-made-a.html",
+				"title": "I made a cool YouTube Video",
+				"content_html": "<p>I posted a video on my YouTube channel! I feel iffy about my own use of YouTube but I am pretty proud of how this came out and If anyone is actually reading these blog posts then I would hugely appreciate you checking this out and giving it a like.</p>\n<p><a href=\"https://youtu.be/HNtRFb8XcPM?si=3j6MCs0dLPs1ISGD\">Video Link</a></p>\n",
+				"content_text": "I posted a video on my YouTube channel! I feel iffy about my own use of YouTube but I am pretty proud of how this came out and If anyone is actually reading these blog posts then I would hugely appreciate you checking this out and giving it a like. \n\n[Video Link](https://youtu.be/HNtRFb8XcPM?si=3j6MCs0dLPs1ISGD)\n",
+				"date_published": "2023-12-05T19:01:29+11:00",
+				"url": "https://blog.techyte.net/2023/12/05/i-made-a.html",
+				"tags": ["Games"]
+			},
+			{
 				"id": "http://techyte.micro.blog/2023/12/03/cheapest-excuse-for.html",
 				"title": "Cheapest excuse for a blog post",
 				"content_html": "<p>Was going to write a thing on how simplistic the left and right polotical spectrum is but I honestly don’t know enough and couldn’t do it justice. If your interested there are plenty of YouTube videos and articles going into it but at least for now I’ll stick to history and Ideology. Anyway I’d like to let you know that I’m working on a small thing on world wars but sadly I can’t.</p>\n",
@@ -90,7 +107,7 @@
 				"id": "http://techyte.micro.blog/2023/10/27/havent-been-blogin.html",
 				
 				"content_html": "<p>havent been blogin cause ive been drawing countryballs (or polandballs depending on who you ask)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "havent been blogin cause ive been drawing countryballs (or polandballs depending on who you ask)\n\n<img src=\"https://blog.techyte.net/uploads/2023/germany-2008.png\" width=\"313\" height=\"600\" alt=\"\"><img src=\"https://blog.techyte.net/uploads/2023/823b2eb1fc.png\" width=\"600\" height=\"477\" alt=\"\"><img src=\"https://blog.techyte.net/uploads/2023/all-states-in-the-european-union.png\" width=\"600\" height=\"484\" alt=\"\"><img src=\"https://blog.techyte.net/uploads/2023/average-australian.png\" width=\"600\" height=\"375\" alt=\"\"><img src=\"https://blog.techyte.net/uploads/2023/soviet-and-england.png\" width=\"600\" height=\"375\" alt=\"\">\n",
+				"content_text": "havent been blogin cause ive been drawing countryballs (or polandballs depending on who you ask)\n\n<img src=\"uploads/2023/germany-2008.png\" width=\"313\" height=\"600\" alt=\"\"><img src=\"uploads/2023/823b2eb1fc.png\" width=\"600\" height=\"477\" alt=\"\"><img src=\"uploads/2023/all-states-in-the-european-union.png\" width=\"600\" height=\"484\" alt=\"\"><img src=\"uploads/2023/average-australian.png\" width=\"600\" height=\"375\" alt=\"\"><img src=\"uploads/2023/soviet-and-england.png\" width=\"600\" height=\"375\" alt=\"\">\n",
 				"date_published": "2023-10-27T23:35:09+11:00",
 				"url": "https://blog.techyte.net/2023/10/27/havent-been-blogin.html"
 			},
@@ -116,7 +133,7 @@
 				"id": "http://techyte.micro.blog/2023/10/22/aud-vs-global.html",
 				"title": "AUD vs Global Iron Price",
 				"content_html": "<p>TIL: Australia’s economy is so centered around mining that you can put a graph of iron prices next to a graph of the worth of the Australian dolar it’s almost comical. As the global iron price goes up, so does the worth of the AUD! I think its both funny and interesting that a countries currency can be so dependant on one recource, I also wonder what this implies about Australias economy on the whole.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "TIL: Australia’s economy is so centered around mining that you can put a graph of iron prices next to a graph of the worth of the Australian dolar it’s almost comical. As the global iron price goes up, so does the worth of the AUD! I think its both funny and interesting that a countries currency can be so dependant on one recource, I also wonder what this implies about Australias economy on the whole.\n\n<img src=\"https://blog.techyte.net/uploads/2023/img-4845.png\" width=\"600\" height=\"350\" alt=\"\">\n",
+				"content_text": "TIL: Australia’s economy is so centered around mining that you can put a graph of iron prices next to a graph of the worth of the Australian dolar it’s almost comical. As the global iron price goes up, so does the worth of the AUD! I think its both funny and interesting that a countries currency can be so dependant on one recource, I also wonder what this implies about Australias economy on the whole.\n\n<img src=\"uploads/2023/img-4845.png\" width=\"600\" height=\"350\" alt=\"\">\n",
 				"date_published": "2023-10-22T21:03:59+11:00",
 				"url": "https://blog.techyte.net/2023/10/22/aud-vs-global.html",
 				"tags": ["GeopoliticsHistory","Today I learned"]
